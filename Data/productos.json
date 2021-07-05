@@ -1,0 +1,50 @@
+[
+   {
+     "id": 1,
+      "nombre": "Lemon Pie",
+      "precio": 600,
+      "destacado": true,
+      "descripcion":"Descripcion del producto",
+      "imagen": "../img/lemonpie.jpg"
+   },
+   {
+     "id": 2,
+      "nombre": "Cabsha",
+      "precio": 750,
+      "destacado": true,
+      "descripcion":"Descripcion del producto",
+      "imagen": "../img/cabsha.jpg"
+   },
+   {
+     "id": 3,
+      "nombre": "Tarta de Frutilla",
+      "precio": 750,
+      "destacado": true,
+      "descripcion":"Descripcion del producto",
+      "imagen": "../img/Tarta-de-frutillas.jpg"
+   },
+   {
+     "id": 4,
+      "nombre": "Desayuno Ejecutivo",
+      "precio": 650,
+      "destacado": true,
+      "descripcion":"Descripcion del producto",
+      "imagen": "../img/ejecutivo.jpg"
+   },
+   {
+     "id": 5,
+      "nombre": "Desayuno Sorpresa",
+      "precio": 800,
+      "destacado": true,
+      "descripcion":"Descripcion del producto",
+      "imagen": "../img/sorpresa.jpg"
+   },
+   {
+     "id": 6,
+      "nombre": "Desayuno Economico",
+      "precio": 650,
+      "destacado": true,
+      "descripcion":"Descripcion del producto",
+      "imagen": "../img/economico.jpg"
+   }
+]
